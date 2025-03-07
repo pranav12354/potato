@@ -1,0 +1,6 @@
+tensorflow
+keras
+gdown
+streamlit
+numpy
+matplotlib
